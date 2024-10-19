@@ -1,0 +1,6 @@
+streamlit 
+scikit-learn 
+pandas  # si tu utilises
+pandas 
+numpy 
+matplotlib
