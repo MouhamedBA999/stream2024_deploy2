@@ -4,3 +4,4 @@ pandas  # si tu utilises
 pandas 
 numpy 
 matplotlib
+seaborn
